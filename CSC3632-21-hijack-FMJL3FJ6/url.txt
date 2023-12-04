@@ -1,0 +1,7 @@
+Login: http://10.0.0.5/ctf_deploy2/hijack/CPPdznfU/login.php
+
+username: user_ISDAKOQKLC
+password: vZzto81T
+
+Simulate root: http://10.0.0.5/ctf_deploy2/hijack/CPPdznfU/simulate_root.php
+
